@@ -13,7 +13,7 @@ _*Decoupling the messages/threads/channels from the transport/storage mechanisms
 There are some other key ideas, currently in no particular order:
 
 * self-hosted: anyone with a linux box (POSIX system?) and a network connection can host
-* open but extensible, versioned API
+* open semantic API; backwards and forwards compatible.
 * distributed: options for federation & peer-to-peer
 * Identity (but not necessarily real-name), Authentication/Authorization built-in
 * Search/Browse (fts of archived messages, topics, users)
